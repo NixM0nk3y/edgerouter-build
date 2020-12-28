@@ -1,0 +1,10 @@
+rootfs.tar.*
+Dockerfile
+build.log
+build-command.txt
+rootfs/
+qemu-*-static
+x86_64_qemu-*-static.tar.gz
+*~
+.#*
+*#
